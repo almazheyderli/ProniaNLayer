@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\MVC\Pronia\ProniaNLayerMVC\Pronia.Core\bin\Debug\net6.0\Pronia.Core.deps.json
+C:\Users\User\Desktop\MVC\Pronia\ProniaNLayerMVC\Pronia.Core\bin\Debug\net6.0\Pronia.Core.runtimeconfig.json
+C:\Users\User\Desktop\MVC\Pronia\ProniaNLayerMVC\Pronia.Core\bin\Debug\net6.0\Pronia.Core.dll
+C:\Users\User\Desktop\MVC\Pronia\ProniaNLayerMVC\Pronia.Core\bin\Debug\net6.0\Pronia.Core.pdb
+C:\Users\User\Desktop\MVC\Pronia\ProniaNLayerMVC\Pronia.Core\obj\Debug\net6.0\Pronia.Core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVC\Pronia\ProniaNLayerMVC\Pronia.Core\obj\Debug\net6.0\Pronia.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MVC\Pronia\ProniaNLayerMVC\Pronia.Core\obj\Debug\net6.0\Pronia.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MVC\Pronia\ProniaNLayerMVC\Pronia.Core\obj\Debug\net6.0\Pronia.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\MVC\Pronia\ProniaNLayerMVC\Pronia.Core\obj\Debug\net6.0\Pronia.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVC\Pronia\ProniaNLayerMVC\Pronia.Core\obj\Debug\net6.0\Pronia.Core.sourcelink.json
+C:\Users\User\Desktop\MVC\Pronia\ProniaNLayerMVC\Pronia.Core\obj\Debug\net6.0\Pronia.Core.dll
+C:\Users\User\Desktop\MVC\Pronia\ProniaNLayerMVC\Pronia.Core\obj\Debug\net6.0\refint\Pronia.Core.dll
+C:\Users\User\Desktop\MVC\Pronia\ProniaNLayerMVC\Pronia.Core\obj\Debug\net6.0\Pronia.Core.pdb
+C:\Users\User\Desktop\MVC\Pronia\ProniaNLayerMVC\Pronia.Core\obj\Debug\net6.0\Pronia.Core.genruntimeconfig.cache
+C:\Users\User\Desktop\MVC\Pronia\ProniaNLayerMVC\Pronia.Core\obj\Debug\net6.0\ref\Pronia.Core.dll
